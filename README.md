@@ -1,5 +1,4 @@
-# Bootstrap-Portfolio
-Bootstrap-Portfolio 
+# Bootstrap-Portfolio 
 
 Technologies used: HTML | CSS | Bootstrap 
 
