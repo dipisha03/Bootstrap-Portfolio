@@ -10,7 +10,7 @@ Portfolio:
 Focuses on my interests & projects 
 
 Contact: 
-Connect with me 
+Connect with me! 
 
 Link:
 https://dipisha03.github.io/Bootstrap-Portfolio/
